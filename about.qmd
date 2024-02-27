@@ -1,0 +1,24 @@
+---
+title: "About"
+image: profile.JPEG
+comments: false
+about:
+  template: jolla
+  links:
+    - icon: Email
+      text: Email
+      href: mailto:ayomideh29@gmail.com
+---
+
+A Computer Science graduate from one of the top schools in the state, Ahmed is available for any of your data projects
+
+
+## Education
+
+The Polytechnic \| Ibadan, Oyo State
+
+(ND in Computer Science \| 2017 - 2019)
+
+National Open University \| Abeokuta, Ogun State
+
+(Bsc in Business Administration \| 2021 - Present)

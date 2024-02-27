@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/2023-11-18_8weeks-sql-challenge-1/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2023-11-18_8weeks-sql-challenge-1/index.html"
+    ]
+  },
+  {
+    "listing": "/posts_index.html",
+    "items": [
+      "/posts/2023-11-18_8weeks-sql-challenge-1/index.html"
+    ]
+  }
+]
